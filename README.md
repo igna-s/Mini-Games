@@ -108,7 +108,7 @@ A simple strategy game for two players where the goal is to align three symbols 
 
 ## 📄 **License**
 
-This project is licensed under the **Apache License 2.0**. You are free to use, modify, and distribute the code, provided proper credit is given to the original author.  
+This project is licensed under the **Apache License 2.0**. You are free to use, modify, and distribute the code, provided proper credit is given to the original author of the Sprites/Sounds.  
 
 ---
 
