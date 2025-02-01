@@ -6,7 +6,7 @@ Welcome to the **Classic Games Repository**! This project contains implementatio
 
 ## 📜 **Index of Games**
 
-### 1. **Ahorcado**  
+### 1. **Hangman**  
 A classic word-guessing game where players attempt to uncover a hidden word by guessing one letter at a time.  
 📌 Available in Spanish and English.
 
@@ -38,7 +38,7 @@ A simple strategy game for two players where the goal is to align three symbols 
 
 ## 🕹️ **Detailed Game Descriptions**
 
-### 1. **Ahorcado**  
+### 1. **Hangman**  
 **Objective:** Guess the hidden word one letter at a time before running out of attempts.  
 - Players receive a blank representation of the word (e.g., "_ _ _ _").  
 - Each incorrect guess draws a part of the "hangman."  
