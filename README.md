@@ -34,6 +34,11 @@ A simple strategy game for two players where the goal is to align three symbols 
 📌 Available in Spanish and English.
 
 
+### 7. **Pac-Man**  
+An arcade game where players navigate Pac-Man through a maze and eats point avoiding ghosts.  
+📌 Available in English and Spanish (Didnt have text).
+
+
 ---
 
 ## 🕹️ **Detailed Game Descriptions**
@@ -103,6 +108,18 @@ A simple strategy game for two players where the goal is to align three symbols 
 - Simple yet elegant graphics.  
 
 ---
+### 7. **Pac-Man**  
+**Objective:** Navigate Pac-Man through a maze to eat all the points while avoiding four colorful ghosts.  
+- Clear the maze to advance to the next level.  
+
+**Features:**  
+- Simple maze graphics and sound effects.  
+- Ghosts move in random paterns.  
+- Score tracking and multiple levels.  
+
+
+
+
 
 ---
 
